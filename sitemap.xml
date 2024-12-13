@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://wallaceheller.github.io/2/</loc>
+  <lastmod>2024-12-09T06:17:01+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://wallaceheller.github.io/2/about.html</loc>
+  <lastmod>2024-12-09T06:17:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://wallaceheller.github.io/2/resources.html</loc>
+  <lastmod>2024-12-09T06:17:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://wallaceheller.github.io/2/privacy.html</loc>
+  <lastmod>2024-12-09T06:17:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://wallaceheller.github.io/2/es-index.html</loc>
+  <lastmod>2024-12-09T06:17:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://wallaceheller.github.io/2/index.html</loc>
+  <lastmod>2024-12-09T06:17:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://wallaceheller.github.io/2/sobre-mi.html</loc>
+  <lastmod>2024-12-09T06:17:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://wallaceheller.github.io/2/recursos.html</loc>
+  <lastmod>2024-12-09T06:17:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://wallaceheller.github.io/2/privacidad.html</loc>
+  <lastmod>2024-12-09T06:17:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
